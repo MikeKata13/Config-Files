@@ -1,0 +1,17 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/FreeDOS.iso,file:$HOME/Downloads/FreeDOS.iso
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAA6wAAAPiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP1 Height 1920x1080=1040
+eDP1 Width 1920x1080=940
+eDP1 XPosition 1920x1080=968
+eDP1 YPosition 1920x1080=28
+splitterSizes=624,312

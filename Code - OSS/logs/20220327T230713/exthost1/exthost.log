@@ -1,0 +1,15 @@
+[2022-03-27 23:07:16.564] [exthost] [info] Extension host with pid 424584 started
+[2022-03-27 23:07:16.564] [exthost] [info] Skipping acquiring lock for /home/mike/.config/Code - OSS/User/workspaceStorage/dacbdaa287fef1669c0b74a98fa9f6f0.
+[2022-03-27 23:07:16.744] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-27 23:07:16.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-27 23:07:16.752] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-27 23:07:16.837] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-27 23:07:16.862] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-27 23:07:16.926] [exthost] [info] Eager extensions activated
+[2022-03-27 23:07:16.972] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 23:07:16.990] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 23:07:18.991] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-03-27 23:07:19.089] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-03-27 23:07:19.351] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-03-27 23:35:01.513] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-27 23:35:01.521] [exthost] [info] Extension host with pid 424584 exiting with code 0

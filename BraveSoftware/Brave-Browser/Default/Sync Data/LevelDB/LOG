@@ -1,0 +1,48 @@
+2022/03/28-10:56:05.839 1ce8 Reusing MANIFEST /home/mike/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/03/28-10:56:05.917 1ce8 Recovering log #73
+2022/03/28-10:56:06.002 1ce8 Reusing old log /home/mike/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000073.log 
+2022/03/28-11:33:52.887 1d48 Level-0 table #77: started
+2022/03/28-11:33:53.017 1d48 Level-0 table #77: 58601 bytes OK
+2022/03/28-11:33:53.274 1d48 Delete type=0 #73
+2022/03/28-12:45:32.617 1d47 Level-0 table #79: started
+2022/03/28-12:45:32.813 1d47 Level-0 table #79: 60383 bytes OK
+2022/03/28-12:45:33.005 1d47 Delete type=0 #76
+2022/03/28-12:45:33.005 1d47 Compacting 4@0 + 1@1 files
+2022/03/28-12:45:33.072 1d47 Generated table #80@0: 126 keys, 12621 bytes
+2022/03/28-12:45:33.072 1d47 Compacted 4@0 + 1@1 files => 12621 bytes
+2022/03/28-12:45:33.227 1d47 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/28-12:45:33.227 1d47 Delete type=2 #71
+2022/03/28-12:45:33.227 1d47 Delete type=2 #74
+2022/03/28-12:45:33.227 1d47 Delete type=2 #79
+2022/03/28-12:45:33.227 1d47 Delete type=2 #77
+2022/03/28-12:45:33.227 1d47 Delete type=2 #68
+2022/03/28-14:06:16.797 21ad0 Level-0 table #82: started
+2022/03/28-14:06:16.981 21ad0 Level-0 table #82: 56539 bytes OK
+2022/03/28-14:06:17.115 21ad0 Delete type=0 #78
+2022/03/28-15:27:05.183 9c92 Level-0 table #84: started
+2022/03/28-15:27:05.361 9c92 Level-0 table #84: 56215 bytes OK
+2022/03/28-15:27:05.496 9c92 Delete type=0 #81
+2022/03/28-16:32:50.513 38be5 Level-0 table #86: started
+2022/03/28-16:32:50.697 38be5 Level-0 table #86: 60307 bytes OK
+2022/03/28-16:32:50.827 38be5 Delete type=0 #83
+2022/03/28-17:47:44.540 526b4 Level-0 table #88: started
+2022/03/28-17:47:44.655 526b4 Level-0 table #88: 58079 bytes OK
+2022/03/28-17:47:44.812 526b4 Delete type=0 #85
+2022/03/28-17:47:44.812 526b4 Compacting 4@0 + 1@1 files
+2022/03/28-17:47:44.893 526b4 Generated table #89@0: 126 keys, 12015 bytes
+2022/03/28-17:47:44.893 526b4 Compacted 4@0 + 1@1 files => 12015 bytes
+2022/03/28-17:47:45.073 526b4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/28-17:47:45.074 526b4 Delete type=2 #88
+2022/03/28-17:47:45.074 526b4 Delete type=2 #86
+2022/03/28-17:47:45.074 526b4 Delete type=2 #80
+2022/03/28-17:47:45.074 526b4 Delete type=2 #84
+2022/03/28-17:47:45.074 526b4 Delete type=2 #82
+2022/03/28-19:07:42.409 50965 Level-0 table #91: started
+2022/03/28-19:07:42.552 50965 Level-0 table #91: 56690 bytes OK
+2022/03/28-19:07:42.686 50965 Delete type=0 #87
+2022/03/28-20:19:28.942 50965 Level-0 table #93: started
+2022/03/28-20:19:29.067 50965 Level-0 table #93: 60122 bytes OK
+2022/03/28-20:19:29.245 50965 Delete type=0 #90
+2022/03/28-21:43:14.333 84b0e Level-0 table #95: started
+2022/03/28-21:43:14.482 84b0e Level-0 table #95: 55512 bytes OK
+2022/03/28-21:43:14.649 84b0e Delete type=0 #92

@@ -1,0 +1,7 @@
+2022/03/28-10:56:11.265 1cc1 Recovering log #3
+2022/03/28-10:56:11.374 1cc1 Level-0 table #5: started
+2022/03/28-10:56:12.039 1cc1 Level-0 table #5: 2784294 bytes OK
+2022/03/28-10:56:12.044 1cc1 Recovering log #18
+2022/03/28-10:56:12.614 1cc1 Delete type=0 #3
+2022/03/28-10:56:12.614 1cc1 Delete type=3 #2
+2022/03/28-10:56:12.614 1cc1 Delete type=0 #18

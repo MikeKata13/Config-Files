@@ -1,0 +1,24 @@
+[2022-03-27 19:24:23.409] [exthost] [info] Extension host with pid 228905 started
+[2022-03-27 19:24:23.409] [exthost] [info] Skipping acquiring lock for /home/mike/.config/Code - OSS/User/workspaceStorage/a8db8d01b2fe047a208bd671163de01f.
+[2022-03-27 19:24:23.682] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-27 19:24:23.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-27 19:24:23.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-27 19:24:23.809] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-27 19:24:23.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-27 19:24:23.956] [exthost] [info] Eager extensions activated
+[2022-03-27 19:24:23.991] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 19:24:24.001] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 19:24:55.552] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-27 19:24:55.556] [exthost] [info] Extension host with pid 228905 exiting with code 0
+[2022-03-27 19:25:00.185] [exthost] [info] Extension host with pid 229518 started
+[2022-03-27 19:25:00.185] [exthost] [info] Skipping acquiring lock for /home/mike/.config/Code - OSS/User/workspaceStorage/658980b4924386e5903bf3047dc0a54e.
+[2022-03-27 19:25:00.242] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-27 19:25:00.245] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-27 19:25:00.247] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-27 19:25:00.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-27 19:25:00.290] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-27 19:25:00.343] [exthost] [info] Eager extensions activated
+[2022-03-27 19:25:00.373] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 19:25:00.381] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 22:34:57.236] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-27 22:34:57.246] [exthost] [info] Extension host with pid 229518 exiting with code 0

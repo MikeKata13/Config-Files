@@ -1,0 +1,42 @@
+2022/03/28-10:56:05.173 3 Reusing MANIFEST /home/mike/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2022/03/28-10:56:05.252 3 Recovering log #45
+2022/03/28-10:56:05.344 3 Reusing old log /home/mike/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000045.log 
+2022/03/28-11:52:06.181 16 Level-0 table #49: started
+2022/03/28-11:52:06.235 16 Level-0 table #49: 21075 bytes OK
+2022/03/28-11:52:06.283 16 Delete type=0 #45
+2022/03/28-11:52:06.284 16 Compacting 4@0 + 1@1 files
+2022/03/28-11:52:06.369 16 Generated table #50@0: 2202 keys, 103135 bytes
+2022/03/28-11:52:06.370 16 Compacted 4@0 + 1@1 files => 103135 bytes
+2022/03/28-11:52:06.415 16 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/28-11:52:06.416 16 Delete type=2 #46
+2022/03/28-11:52:06.417 16 Delete type=2 #43
+2022/03/28-11:52:06.417 16 Delete type=2 #40
+2022/03/28-11:52:06.417 16 Delete type=2 #38
+2022/03/28-11:52:06.417 16 Delete type=2 #49
+2022/03/28-14:09:06.181 56 Level-0 table #52: started
+2022/03/28-14:09:06.244 56 Level-0 table #52: 18479 bytes OK
+2022/03/28-14:09:06.289 56 Delete type=0 #48
+2022/03/28-15:38:06.181 102 Level-0 table #54: started
+2022/03/28-15:38:06.252 102 Level-0 table #54: 22320 bytes OK
+2022/03/28-15:38:06.301 102 Delete type=0 #51
+2022/03/28-15:59:06.181 102 Level-0 table #56: started
+2022/03/28-15:59:06.256 102 Level-0 table #56: 382511 bytes OK
+2022/03/28-15:59:06.300 102 Delete type=0 #53
+2022/03/28-17:32:06.182 132 Level-0 table #58: started
+2022/03/28-17:32:06.262 132 Level-0 table #58: 399370 bytes OK
+2022/03/28-17:32:06.307 132 Delete type=0 #55
+2022/03/28-17:32:06.307 132 Compacting 4@0 + 1@1 files
+2022/03/28-17:32:06.385 132 Generated table #59@0: 2670 keys, 488821 bytes
+2022/03/28-17:32:06.385 132 Compacted 4@0 + 1@1 files => 488821 bytes
+2022/03/28-17:32:06.428 132 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/28-17:32:06.429 132 Delete type=2 #54
+2022/03/28-17:32:06.429 132 Delete type=2 #58
+2022/03/28-17:32:06.429 132 Delete type=2 #56
+2022/03/28-17:32:06.429 132 Delete type=2 #50
+2022/03/28-17:32:06.429 132 Delete type=2 #52
+2022/03/28-19:15:06.182 1d8 Level-0 table #61: started
+2022/03/28-19:15:06.251 1d8 Level-0 table #61: 23834 bytes OK
+2022/03/28-19:15:06.301 1d8 Delete type=0 #57
+2022/03/28-19:21:54.086 1d8 Level-0 table #63: started
+2022/03/28-19:21:54.182 1d8 Level-0 table #63: 528863 bytes OK
+2022/03/28-19:21:54.228 1d8 Delete type=0 #60

@@ -1,0 +1,12 @@
+2022/03/27-23:51:08.351 710b2 Reusing MANIFEST /home/mike/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/27-23:51:08.351 710b2 Recovering log #71
+2022/03/27-23:51:08.643 710b2 Reusing old log /home/mike/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000071.log 
+2022/03/28-00:08:26.886 710b7 Level-0 table #76: started
+2022/03/28-00:08:27.034 710b7 Level-0 table #76: 2230035 bytes OK
+2022/03/28-00:08:27.086 710b7 Delete type=0 #71
+2022/03/28-00:14:59.247 710a2 Compacting 1@1 + 1@2 files
+2022/03/28-00:14:59.313 710a2 Generated table #77@1: 51 keys, 14281 bytes
+2022/03/28-00:14:59.313 710a2 Compacted 1@1 + 1@2 files => 14281 bytes
+2022/03/28-00:14:59.354 710a2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/28-00:14:59.354 710a2 Delete type=2 #73
+2022/03/28-00:14:59.355 710a2 Delete type=2 #76

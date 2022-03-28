@@ -1,0 +1,8 @@
+[2022-03-26 23:09:00.922] [main] [info] window#load: attempt to load window (id: 1)
+[2022-03-26 23:09:01.094] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-03-26 23:09:01.680] [main] [info] ExtensionHostStarterWorker created
+[2022-03-26 23:09:07.855] [main] [info] window#load: window reported ready (id: 1)
+[2022-03-26 23:09:07.997] [main] [info] Starting extension host with pid 66863 (fork() took 12 ms).
+[2022-03-26 23:09:07.997] [main] [info] ExtensionHostStarterWorker.start() took 19 ms.
+[2022-03-26 23:10:48.877] [main] [info] Waiting for extension host with pid 66863 to exit.
+[2022-03-26 23:10:48.900] [main] [info] Extension host with pid 66863 exited with code: 0, signal: null.
